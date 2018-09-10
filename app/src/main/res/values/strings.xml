@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomAccessPoint</string>
+    <string name="ssid">SSID</string>
+    <string name="password">Password</string>
+</resources>

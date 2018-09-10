@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    >
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        tools:background="#AAA"
+        />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_alignTop="@+id/avatar"
+        android:layout_toRightOf="@+id/avatar"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        tools:text="IP address" />
+
+    <TextView
+        android:id="@+id/ipAddr"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/name"
+        android:layout_toRightOf="@+id/avatar"
+        android:textStyle="bold"
+        tools:text="IP address"
+        />
+
+    <TextView
+        android:id="@+id/hwAddr"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/ipAddr"
+        android:layout_toRightOf="@+id/avatar"
+        android:textStyle="bold"
+        tools:text="HW address"
+        />
+
+</RelativeLayout>

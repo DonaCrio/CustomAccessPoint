@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747608653803",
+    "firebase_url": "https://myaccesspoint-540f5.firebaseio.com",
+    "project_id": "myaccesspoint-540f5",
+    "storage_bucket": "myaccesspoint-540f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747608653803:android:611e19c7b293225c",
+        "android_client_info": {
+          "package_name": "com.donatien.customaccesspoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747608653803-8joh76m0a6r0r2r21n5jic1r27otiq6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donatien.customaccesspoint",
+            "certificate_hash": "007766f3731d5dddd30a93d04608a8a206eaf503"
+          }
+        },
+        {
+          "client_id": "747608653803-e08dmjvdsjstdsuc4171hcspuls67fot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGn6OswA9rv6ngRC4ZAbIwZpcztGG6zEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747608653803-e08dmjvdsjstdsuc4171hcspuls67fot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
