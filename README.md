@@ -1,6 +1,6 @@
 # CustomAccessPoint
 
-[Finished] Android app for a better managment of your mobile hotspot
+Android app for a better managment of your mobile hotspot
 
 ## Goals
 The goal of this project was to create a small android app in order to monitor devices connected to your Android access point.
